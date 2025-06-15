@@ -47,6 +47,8 @@ Switch modes anytime. Bhaiya adapts his tone and advice like a true OP mentor ğŸ
 
 ![image](https://github.com/user-attachments/assets/a11cdd7f-5d79-4355-b3b8-e81b195ef2bd)
 
+![image](https://github.com/user-attachments/assets/a11cdd7f-5d79-4355-b3b8-e81b195ef2bd)
+
 
 ---
 
