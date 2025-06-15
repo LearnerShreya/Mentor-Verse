@@ -45,7 +45,8 @@ Switch modes anytime. Bhaiya adapts his tone and advice like a true OP mentor �
 
 ## 📸 Sneak Peek
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/a11cdd7f-5d79-4355-b3b8-e81b195ef2bd)
+
 
 ---
 
@@ -92,3 +93,5 @@ If you enjoyed using MentorVerse:
 
 **Built with hostel vibes, chai breaks ☕, and OP intent.**
 "Chamak gaya bhai? Toh ek star ⭐ toh banta hai!" 😄
+
+```
