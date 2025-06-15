@@ -92,5 +92,3 @@ If you enjoyed using MentorVerse:
 
 **Built with hostel vibes, chai breaks ☕, and OP intent.**
 "Chamak gaya bhai? Toh ek star ⭐ toh banta hai!" 😄
-
-```
