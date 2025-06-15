@@ -1,0 +1,21 @@
+# Ignore dependency directory
+node_modules/
+
+# Ignore build output directories
+dist/
+build/
+
+# Ignore environment variable files (contains sensitive information)
+.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore local editor configuration
+.vscode/
