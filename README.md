@@ -78,7 +78,7 @@ MENTOR-VERSE/
 ## 👩‍💻 Built By
 
 * 💻 **Shreya Singh** – Developer & Creator of MentorVerse
-* 🙌 Inspired by **Rohit Negi Bhaiya** – IITG Alum, CoderArmy 🎥
+* 🙌 Inspired by **Rohit Negi Bhaiya** – CoderArmy 🎥
 
 ---
 
